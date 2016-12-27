@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+div {
+  background-color: lightblue;
+  border: 1px solid black;
+  font-size: 20px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  float: left;
+  width: 200px;
+}
+
+button {
+  clear: left;
+  float: left;
+  font-size: 20px;
+  height: 50px;
+  cursor: pointer;
+  margin-top: 10px;
+  width: 100px;
+}
